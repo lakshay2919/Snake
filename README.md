@@ -4,5 +4,5 @@ Controls:
 Use arrow keys to change direction.
 
 Credits
-Developed by Lakshay Gill,
+Developed by Lakshay Gill.
 Inspired by Snake Game from Nokia Keypad Device.
